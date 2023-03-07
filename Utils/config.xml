@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<config>
+    <database>
+        <url></url>
+        <username>fabien</username>
+        <password>fabien</password>
+        <host>localhost</host>
+        <port>5432</port>
+        <base>bddspaciale</base>
+    </database>
+    <logging>
+        <level>INFO</level>
+    </logging>
+</config>
